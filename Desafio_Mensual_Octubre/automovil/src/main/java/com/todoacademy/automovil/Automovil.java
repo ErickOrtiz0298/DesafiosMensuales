@@ -1,7 +1,7 @@
 package com.todoacademy.automovil;
 import com.todoacademy.automovil.gui.Principal;
 
-//Realizndo una prueba
+//Wajajaja
 public class Automovil {
     public static void main(String[] args){
         
