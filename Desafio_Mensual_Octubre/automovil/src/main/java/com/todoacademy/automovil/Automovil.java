@@ -1,7 +1,7 @@
 package com.todoacademy.automovil;
 import com.todoacademy.automovil.gui.Principal;
 
-//Wajajaja
+
 public class Automovil {
     public static void main(String[] args){
         
